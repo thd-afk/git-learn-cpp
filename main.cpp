@@ -1,10 +1,9 @@
 #include <iostream>
-
+#include <cmath>
 using namespace std;
 
-int main()
-{
-    int z,x;
-    cout << "Hello world!" << endl;
+    int main()
+    {
+
     return 0;
-}
+    }
